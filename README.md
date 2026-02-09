@@ -1,5 +1,4 @@
-# Currently Studying Computer Science 
-
+# Currently Studying Computer Science <br>
 # Interested in Cyber Security, Data Analyst, Data Scientist, And Machine Learning 
 <!--
 **nooooooa/nooooooa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
